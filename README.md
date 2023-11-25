@@ -1,7 +1,7 @@
 
 
 
-  <h1><p align="center"><b><b>Subscroption System</b></b>
+  <h1><p align="center"><b><b>Subscription System</b></b>
 </p></h1>
 
 <div align="center">
